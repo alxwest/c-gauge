@@ -159,7 +159,7 @@ ease, a more accurate graph for a binary cycle is shown in [Fig. 8](#graph).
 Though for visualisation of a function, the author has found
 repeating the first node to represent a loop or repeat/continuation is
 more suitable [Fig. 9](#graph2), as the functions discussed in this contribution 
-only rely on the fsum of nodes to give rise to the kinematics.
+only rely on the sum of nodes to give rise to the kinematics.
 
 <a name="graph2">![Binary Cycle](./figures/fig9.svg)</a>
 
