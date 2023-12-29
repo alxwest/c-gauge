@@ -10,7 +10,9 @@
 
 In discussing the author's approach he wanted to build something
 from primary concepts, and started with an analogy of the quantum action
-which the author has dubbed the "Minimal Function". This represents the minimum quanta of energy $f(1c)$ and it's subsequent transformation within it's system. 
+which the author has dubbed the "Minimal Function". This represents the 
+minimum quanta of energy $f(1c)$ and it's subsequent transformation 
+within it's system. 
 
 For the purposes of this contribution the Minimal Function is binary,
 though on further exploration it has shown to be quite complex. For the
@@ -19,7 +21,7 @@ scope of this contribution there is no need to dive into this complexity.
 A System is where a multiple of Functions can be employed. Just as a
 Function uses probability to determine its state, the same can be
 applied to a System. There is no boundary between a System or a
-Function, just that one defines the other, so the ``Minimal'' function
+Function, just that one defines the other, so the "Minimal" function
 explained here can admittedly be something of a misnomer as it is
 possible to reduce complex systems into simple functions as the Path
 Integral famously demonstrates, this is how the minimal function was
@@ -153,7 +155,8 @@ ease, a more accurate graph for a binary cycle is shown in [Fig. 8](#graph).
 
 Though for visualisation of a function, the author has found
 repeating the first node to represent a loop or repeat/continuation is
-more suitable [Fig. 9](#graph2), as the functions discussed in this contribution only rely on the fsum of nodes to give rise to the kinematics.
+more suitable [Fig. 9](#graph2), as the functions discussed in this contribution 
+only rely on the fsum of nodes to give rise to the kinematics.
 
 <a name="graph2">![Binary Cycle](./figures/fig9.svg)</a>
 
