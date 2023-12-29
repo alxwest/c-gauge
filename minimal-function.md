@@ -55,7 +55,7 @@ probability of 1, but the edges have $\frac{1}{2}$:
 *Fig. 2: Final State*
 
 $$
-  e_{a} = \{ 0_{1},1_{2}\}
+  e_{a} = \{ 0_{1},1_{2} \}
 $$
 
 $$
@@ -71,7 +71,7 @@ $$
 $$
 
 We distribute the probability to each edge. Thus edges
-${e_{a}}_{}$ and $e_{b}$ still account for intrinsic
+$e_{a}$ and $e_{b}$ still account for intrinsic
 probability of 1 for the function. This reflects the law of conservation
 as there is no information loss performing the operation. The operation
 has been separated into two for the ease of communication, no time (or
