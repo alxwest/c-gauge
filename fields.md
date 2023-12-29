@@ -65,7 +65,7 @@ function is:
 
 As 1\textsuperscript{st} degree function can be thought of as \(E = pc\)
 and the 2\textsuperscript{nd} degree perpendicular function can be
-thought of as an acceleration function, I.E. \(E = (p{c)}^{2}\).
+thought of as an acceleration function, I.E. \(E = (pc)^{2}\).
 
 
 ## Tests
