@@ -19,7 +19,7 @@
      id="defs857" />
   <sodipodi:namedview
      id="namedview855"
-     pagecolor="#ffffff"
+     pagecolor="#feffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
@@ -32,12 +32,13 @@
      inkscape:window-width="1280"
      inkscape:window-height="701"
      inkscape:window-x="160"
-     inkscape:window-y="41"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg853"
      inkscape:showpageshadow="2"
      inkscape:deskcolor="#d1d1d1"
-     showguides="true">
+     showguides="true"
+     inkscape:export-bgcolor="#ffffffff">
     <inkscape:grid
        type="axonomgrid"
        id="grid922"
@@ -76,6 +77,13 @@
        clip-rule="nonzero"
        id="path826" />
   </clipPath>
+  <rect
+     style="opacity:1;fill:#f9f9f9;stroke-width:2.29039;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10"
+     id="rect1"
+     width="154.27042"
+     height="74.699364"
+     x="-4.8716974"
+     y="0" />
   <path
      fill="#000000"
      fill-opacity="0"

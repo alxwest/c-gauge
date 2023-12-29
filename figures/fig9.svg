@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   viewBox="0.0 0.0 800.0 600.0"
+   viewBox="0 0 225 75"
    fill="none"
    stroke="none"
    stroke-linecap="square"
@@ -9,6 +9,8 @@
    id="svg853"
    sodipodi:docname="fig9.svg"
    inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   width="225"
+   height="75"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="true"
-     inkscape:zoom="3.676183"
-     inkscape:cx="102.00798"
-     inkscape:cy="52.908139"
+     inkscape:zoom="2.2672702"
+     inkscape:cx="99.679343"
+     inkscape:cy="47.854906"
      inkscape:window-width="1280"
      inkscape:window-height="701"
      inkscape:window-x="160"
-     inkscape:window-y="49"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg853"
      inkscape:showpageshadow="2"
@@ -47,23 +49,40 @@
        units="px"
        visible="true" />
     <sodipodi:guide
-       position="33.174089,550.14408"
+       position="0.041467611,0.9169068"
        orientation="0,-1"
        id="guide1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="151.08428,573.83986"
+       position="0.18885535,0.95639977"
        orientation="1,0"
        id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="88.950958,524.65011"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="225.50564,547.22787"
+       orientation="1,0"
+       id="guide4"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <clipPath
      id="p.0">
     <path
-       d="m0 0l800.0 0l0 600.0l-800.0 0l0 -600.0z"
+       d="M 0,0 H 800 V 600 H 0 Z"
        clip-rule="nonzero"
        id="path826" />
   </clipPath>
+  <rect
+     style="fill:#f9f9f9;stroke-width:2.29039;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10"
+     id="rect4"
+     width="224.058"
+     height="74.097916"
+     x="-0.44105905"
+     y="0" />
   <path
      fill="#000000"
      fill-opacity="0"
@@ -83,7 +102,7 @@
      fill-rule="evenodd"
      id="path847" />
   <circle
-     style="fill:#000000;fill-opacity:0.99215698;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     style="fill:#000000;fill-opacity:0.992157;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
      id="path1792"
      cx="37.795277"
      cy="37.795277"
@@ -119,7 +138,7 @@
      cy="38.14983"
      r="7.5590553" />
   <circle
-     style="fill:#1a1a1a;fill-opacity:0.99215698;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
+     style="fill:#1a1a1a;fill-opacity:0.992157;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:none;paint-order:stroke fill markers"
      id="circle1954"
      cx="113.41148"
      cy="37.80014"
