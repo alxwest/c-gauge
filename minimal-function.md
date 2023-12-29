@@ -37,14 +37,14 @@ representing probability of 1. [Fig. 1](#fig1) is a graph of the initial state:
 *Fig. 1: Initial State*
 
 $$
-\Sigma\  = \{ \bullet_{1}, \circ_{2}\}
+\Sigma\  = \lbrace \bullet_{1}, \circ_{2}\rbrace
 $$
-
+ 
 To represent the binary state of each node we subvert the graph
 algebraic notation thus:
 
 $$
-\Sigma\  = \{ 1_{1},0_{2}\}\  = \ 1
+\Sigma\  = \lbrace1_{1},0_{2}\rbrace\  = \ 1
 $$
 
 Once the function has operated as represented by [Fig. 2](#fig2), the system still has a total
@@ -55,11 +55,11 @@ probability of 1, but the edges have $\frac{1}{2}$:
 *Fig. 2: Final State*
 
 $$
-  e_{a} = \{ 0_{1},1_{2} \}
+  e_{a} = \lbrace0_{1},1_{2} \rbrace
 $$
 
 $$
-  e_{b} = \{ 1_{2},0_{3}\}
+  e_{b} = \lbrace1_{2},0_{3}\rbrace
 $$
 
 $$
@@ -81,7 +81,7 @@ The dotted line is clarification that this is an enclosed system and
 is effectively 0:
 
 $$
-  {e_{c}}_{} = \{ 0_{1},0_{3}\} = 0
+  {e_{c}}_{} = \lbrace0_{1},0_{3}\rbrace = 0
 $$
 
 State A ([Fig. 3](#fig3)) and state B ([Fig. 4](#fig4)) are examples of possible iterations.
@@ -98,7 +98,7 @@ As this system is isolated, both A ([Fig. 3](#stateA)) and B ([Fig. 4](#stateB))
 properties, therefore no discernable comparison can be made:
 
 $$
-  \Sigma_{A} = \{\{ 1_{1},0_{2}\},\{ 1_{1},0_{4}\}\}\  = \Sigma_{B} = \{\{ 1_{3},0_{1}\},\{ 1_{3},0_{2}\}\}  = 1
+  \Sigma_{A} = \{\lbrace1_{1},0_{2}\rbrace,\lbrace1_{1},0_{4}\rbrace\rbrace\  = \Sigma_{B} = \{\lbrace1_{3},0_{1}\rbrace,\lbrace1_{3},0_{2}\rbrace\rbrace  = 1
 $$
 
 ## 2 Function System
@@ -111,14 +111,14 @@ function. [Fig. 5](#2f) is an example of such a system.
 *Fig. 5: 2 Function System*
 
 $$
-  \Sigma = \{\{\{ 1,0\},\{ 1,0\}\},\{\{ 1,0\},\{ 1,0\}\}\}  =  2
+  \Sigma = \{\{\lbrace1,0\rbrace,\lbrace1,0\rbrace\rbrace,\{\lbrace1,0\rbrace,\lbrace1,0\rbrace\rbrace\rbrace  =  2
 $$
 
 The potential probability of a system is calculated by the product
 of all edge probabilities:
 
 $$
-  \Pi = \{\{\frac{1}{2}\},\{\frac{1}{2}\},\{\frac{1}{2}\},\{\frac{1}{2}\}\}  = \frac{1}{16}
+  \Pi = \{\{\frac{1}{2}\rbrace,\{\frac{1}{2}\rbrace,\{\frac{1}{2}\rbrace,\{\frac{1}{2}\rbrace\rbrace  = \frac{1}{16}
 $$
 
 Taking state C or D from [Fig. 5](#2f) illustrates the relative change of
