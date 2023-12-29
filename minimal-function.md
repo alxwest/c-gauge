@@ -55,7 +55,7 @@ probability of 1, but the edges have $\frac{1}{2}$:
 *Fig. 2: Final State*
 
 $$
-  {e_{a}}_{} = \{ 0_{1},1_{2}\}
+ \ {e_{a}}_{} = \{ 0_{1},1_{2}\}
 $$
 
 $$
