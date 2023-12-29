@@ -55,18 +55,19 @@ probability of 1, but the edges have $\frac{1}{2}$:
 *Fig. 2: Final State*
 
 $$
- \ {e_{a}}_{} = \{ 0_{1},1_{2}\}
+  e_{a} = \{ 0_{1},1_{2}\}
 $$
 
 $$
-  {e_{b}}_{} = \{ 1_{2},0_{3}\}
+  e_{b} = \{ 1_{2},0_{3}\}
 $$
 
 $$
   \mu_{\bullet} = \frac{\Sigma \bullet}{n} = \frac{1}{2}
 $$
+
 $$
- \Sigma = \mu_{a} + \mu_{b} = \ 1
+ \Sigma = \mu_{a} + \mu_{b} = 1
 $$
 
 We distribute the probability to each edge. Thus edges
