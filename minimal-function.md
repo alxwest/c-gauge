@@ -185,5 +185,6 @@ Effectively a 1+1 dimensional function is an intrinsic momentum function.
 
 ### Proposed
 
+- All known physical interactions should stem from this function
 - Minimal entropy?
 - Recession velocities of planetary objects?
