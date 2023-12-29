@@ -111,14 +111,14 @@ function. [Fig. 5](#2f) is an example of such a system.
 *Fig. 5: 2 Function System*
 
 $$
-  \Sigma = \{\{\lbrace1,0\rbrace,\lbrace1,0\rbrace\rbrace,\{\lbrace1,0\rbrace,\lbrace1,0\rbrace\rbrace\rbrace  =  2
+  \Sigma = \lbrace \lbrace \lbrace 1 , 0 \rbrace,\lbrace 1 , 0 \rbrace \rbrace ,\lbrace \lbrace 1 , 0 \rbrace , \lbrace 1 , 0 \rbrace \rbrace \rbrace  =  2
 $$
 
 The potential probability of a system is calculated by the product
 of all edge probabilities:
 
 $$
-  \Pi = \{\{\frac{1}{2}\rbrace,\{\frac{1}{2}\rbrace,\{\frac{1}{2}\rbrace,\{\frac{1}{2}\rbrace\rbrace  = \frac{1}{16}
+  \Pi = \lbrace \lbrace \frac{1}{2}\rbrace,\lbrace \frac{1}{2}\rbrace,\lbrace \frac{1}{2} \rbrace , \lbrace \frac{1}{2} \rbrace \rbrace  = \frac{1}{16}
 $$
 
 Taking state C or D from [Fig. 5](#2f) illustrates the relative change of
@@ -179,7 +179,7 @@ $$
   E = pc
 $$
 
-Effectively a 1+1 dimensional function is an internal momentum function.
+Effectively a 1+1 dimensional function is an intrinsic momentum function.
 
 ## Tests
 
