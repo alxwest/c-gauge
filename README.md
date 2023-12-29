@@ -26,7 +26,7 @@ The owner of this repo has a background in software engineering. Which in practi
 
 ## Aim
 
-the author wants to know how the kinematics of the universe operate. Ever since he was a child it has been a source of frustration that we have distorted view which has culminated in a General Relativity and Quantum Mechanics butting heads.
+The author wants to know how the kinematics of the universe operate. Ever since he was a child it has been a source of frustration that we have distorted view which has culminated in a General Relativity and Quantum Mechanics butting heads.
 
 **The primary aim** is to gather hypotheses that have a tangible physical outcome, IE inline with experimental data and can agree with each other.
 
