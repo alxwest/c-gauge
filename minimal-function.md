@@ -57,9 +57,11 @@ probability of 1, but the edges have $\frac{1}{2}$:
 $$
   {e_{a}}_{} = \{ 0_{1},1_{2}\}
 $$
+
 $$
   {e_{b}}_{} = \{ 1_{2},0_{3}\}
 $$
+
 $$
   \mu_{\bullet} = \frac{\Sigma \bullet}{n} = \frac{1}{2}
 $$
@@ -78,7 +80,7 @@ The dotted line is clarification that this is an enclosed system and
 is effectively 0:
 
 $$
-  {e_{c}}_{} = \ \{ 0_{1},0_{3}\} = 0
+  {e_{c}}_{} = \{ 0_{1},0_{3}\} = 0
 $$
 
 State A ([Fig. 3](#fig3)) and state B ([Fig. 4](#fig4)) are examples of possible iterations.
