@@ -37,14 +37,14 @@ representing probability of 1. [Fig. 1](#fig1) is a graph of the initial state:
 *Fig. 1: Initial State*
 
 $$
-\Sigma\  = \lbrace \bullet_{1}, \circ_{2}\rbrace
+\Sigma\  = \lbrace \bullet_{1}, \circ_{2} \rbrace
 $$
  
 To represent the binary state of each node we subvert the graph
 algebraic notation thus:
 
 $$
-\Sigma\  = \lbrace1_{1},0_{2}\rbrace\  = \ 1
+\Sigma\  = \lbrace 1_{1},0_{2} \rbrace  = 1
 $$
 
 Once the function has operated as represented by [Fig. 2](#fig2), the system still has a total
@@ -55,11 +55,11 @@ probability of 1, but the edges have $\frac{1}{2}$:
 *Fig. 2: Final State*
 
 $$
-  e_{a} = \lbrace0_{1},1_{2} \rbrace
+  e_{a} = \lbrace 0_{1},1_{2} \rbrace
 $$
 
 $$
-  e_{b} = \lbrace1_{2},0_{3}\rbrace
+  e_{b} = \lbrace 1_{2},0_{3} \rbrace
 $$
 
 $$
@@ -81,7 +81,7 @@ The dotted line is clarification that this is an enclosed system and
 is effectively 0:
 
 $$
-  {e_{c}}_{} = \lbrace0_{1},0_{3}\rbrace = 0
+  e_{c} = \lbrace 0_{1},0_{3} \rbrace = 0
 $$
 
 State A ([Fig. 3](#fig3)) and state B ([Fig. 4](#fig4)) are examples of possible iterations.
@@ -98,7 +98,7 @@ As this system is isolated, both A ([Fig. 3](#stateA)) and B ([Fig. 4](#stateB))
 properties, therefore no discernable comparison can be made:
 
 $$
-  \Sigma_{A} = \{\lbrace1_{1},0_{2}\rbrace,\lbrace1_{1},0_{4}\rbrace\rbrace\  = \Sigma_{B} = \{\lbrace1_{3},0_{1}\rbrace,\lbrace1_{3},0_{2}\rbrace\rbrace  = 1
+  \Sigma_{A} =  \lbrace \lbrace 1_{1},0_{2} \rbrace ,\lbrace 1_{1},0_{4} \rbrace \rbrace\  = \Sigma_{B} =  \lbrace \lbrace 1_{3},0_{1} \rbrace , \lbrace 1_{3},0_{2}\rbrace \rbrace  = 1
 $$
 
 ## 2 Function System
