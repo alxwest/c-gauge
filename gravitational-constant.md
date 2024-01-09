@@ -182,7 +182,7 @@ $a$ is essentially normalised density, using the unit
 $\frac{1}{\frac{kg}{m}}$ thus:
 
 $$
-  = \frac{1}{\frac{kg}{{m \cdot \left( \frac{m}{s} \right)}^2}}
+  = \frac{1}{\frac{kg}{m \cdot (\frac{m}{s})^2}}
 $$
 
 $$

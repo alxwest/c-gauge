@@ -134,7 +134,7 @@ If we want real world numbers we can normalise by $c$ to get
 momentum-energy equivalence.
 
 $$
-  p_{> 2} = \int_{0}^{{\mu_{> 2}}^{-1}}\frac{x}{d_{1}c} dx = \frac{x^{2}}{c}
+  p_{> 2} = \int_{0}^{{\mu_{>2}}^{-1}}\frac{x}{d_{1}c} dx = \frac{x^{2}}{c}
 $$
 
 And as $E$ is the area of $x$ we get:
