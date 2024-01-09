@@ -27,12 +27,12 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:zoom="2.99"
-     inkscape:cx="155.85284"
-     inkscape:cy="69.565217"
+     inkscape:cx="168.56187"
+     inkscape:cy="63.377926"
      inkscape:window-width="1440"
-     inkscape:window-height="900"
+     inkscape:window-height="847"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg853"
      inkscape:showpageshadow="2"
@@ -77,19 +77,26 @@
        id="path826" />
   </clipPath>
   <rect
-     style="fill:#f9f9f9;fill-opacity:1;stroke:#828282;stroke-width:2.18332;stroke-miterlimit:10;stroke-dasharray:1.09166, 1.09166;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-     id="rect26"
-     width="224.96729"
-     height="54.922493"
-     x="19.589945"
-     y="54.425934" />
+     style="fill:#f9f9f9;stroke-width:2.29039;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10"
+     id="rect1"
+     width="250.50168"
+     height="111.37123"
+     x="-0.33444816"
+     y="-0.33444816" />
   <rect
-     style="fill:#f9f9f9;fill-opacity:1;stroke:#828282;stroke-width:2.18903;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     style="fill:#f9f9f9;fill-opacity:1;stroke:#828282;stroke-width:2.28533;stroke-miterlimit:10;stroke-dasharray:1.14266, 1.14266;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+     id="rect26"
+     width="246.93886"
+     height="54.820484"
+     x="1.5807487"
+     y="54.47694" />
+  <rect
+     style="fill:#f9f9f9;fill-opacity:1;stroke:#828282;stroke-width:2.32975;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
      id="rect25"
-     width="225.55063"
-     height="47.395123"
-     x="19.49896"
-     y="2.4419725" />
+     width="247.48349"
+     height="48.926643"
+     x="1.5091183"
+     y="0.84009016" />
   <path
      fill="#000000"
      fill-opacity="0"
