@@ -72,7 +72,7 @@ perfectly square ($d_{2}$) and cuboid ($d_{3}$). Definite integrals
 of $G_{> 3}$ are shown in (\ref*{eq:43}):
 
 $$
-  G_{> 3}\  = \ \frac{{d_{2}}^{- 1}({d_{2}}^{- 1}{+ \ {d_{3}}^{- 1})}^{2}}{{2c}^{2}}\  = \frac{4(4{+ \ 1728)}^{2}}{{2c}^{2}}
+  G_{> 3}\  = \frac{{d_{2}}^{- 1}({d_{2}}^{- 1}{+ \ {d_{3}}^{- 1})}^{2}}{{2c}^{2}}  = \frac{4(4{+ \ 1728)}^{2}}{{2c}^{2}}
 $$
 
 ### Mean at scale
@@ -141,7 +141,7 @@ enact as a gravitational force, taking into account boundary
 probabilities, thus a mean G can be calculated:
 
 $$
-  G_{> 3\pi}\  = \ \frac{{d_{2}}^{- 1}{{(\mu}_{2\pi} + \ \mu_{3\pi})}^{2}}{{2c}^{2}}\  = 6.6739928853... \times 10^{- 11}
+  G_{> 3\pi}\  = \frac{{d_{2}}^{- 1}{{(\mu}_{2\pi} + \mu_{3\pi})}^{2}}{{2c}^{2}} = 6.6739928853... \times 10^{- 11}
 $$
 
 Comparison between $G_{> 3}$ and $G_{> 3\pi}$ shows the boundary
@@ -171,7 +171,7 @@ and N is $kg\cdot m/s^2$ so we have
 $m^{3}\cdot kg^{-1}\cdot s^{-2}$ for G:
 
 $$
-  G\  = \frac{\frac{1}{d_{2}}(\frac{1}{d_{2}}{+ \ \frac{1}{d_{3}})}^{2}}{{2c}^{2}}
+  G = \frac{\frac{1}{d_{2}}(\frac{1}{d_{2}}+\frac{1}{d_{3}})^{2}}{{2c}^{2}}
 $$
 
 $$
