@@ -1,4 +1,4 @@
-# [Draft] c-Gauge
+# [Draft] c-gauge
 
 ## Abstract
 
@@ -8,6 +8,12 @@
 This hypothesis assumes all quanta in physics can be determined by using the speed of light c. And then the kinematics of this quanta can be placed on a gauge with multiples of c as the scale.
 
 This will hopefully lead to some insight as to why c is.
+
+## Table of constants
+
+As an introduction to a reader that has an understanding of modern physics, please find a list of derived constants that have been worked out using c-gauge [here](~/constants). You can construct a learning path by listing the required reading for each contribution of interest.
+
+Currently the only draft learning path is for the [Gravitational Constant](~/gravitation-constant). The plan is to flesh out the others constants over the next year or so.
 
 
 ## Energy Equivalence
