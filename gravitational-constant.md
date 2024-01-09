@@ -141,7 +141,7 @@ enact as a gravitational force, taking into account boundary
 probabilities, thus a mean G can be calculated:
 
 $$
-  G_{> 3\pi}  = \frac{{d_{2}}^{- 1}({{\mu}_{2\pi} + \mu_{3\pi}}^{2})}{{2c}^{2}} = 6.6739928853... \times 10^{- 11}
+  G_{> 3\pi}  = \frac{{d_{2}}^{- 1}({\mu_{2\pi} + \mu_{3\pi}}^{2})}{{2c}^{2}} = 6.6739928853... \times 10^{- 11}
 $$
 
 Comparison between $G_{> 3}$ and $G_{> 3\pi}$ shows the boundary
