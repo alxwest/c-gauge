@@ -61,7 +61,7 @@ We then can calculate G by normalising the above with $c^{2}$, just as
 we did with the 1<sup>st</sup> degree mass function:
 
 $$
-  {G_{> 3} =}_{}\int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}c^{2}} dx = 6.6755086835... \times 10^{- 11} 
+  G_{> 3} = \int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}c^2} dx = 6.6755086835... \times 10^{- 11} 
 $$
 
 We move from Newtonian gravity-energy equivalence to the more
@@ -72,7 +72,7 @@ perfectly square ($d_{2}$) and cuboid ($d_{3}$). Definite integrals
 of $G_{> 3}$ are shown in (\ref*{eq:43}):
 
 $$
-  G_{> 3} = \frac{{d_{2}}^{- 1}({d_{2}}^{- 1}+{d_{3}}^{- 1})^{2}}{{2c}^{2}}  = \frac{4(4+1728)^{2}}{{2c}^{2}}
+  G_{> 3} = \frac{{d_{2}}^{- 1}({d_{2}}^{- 1}+{d_{3}}^{- 1})^{2}}{2c^2}  = \frac{4(4+1728)^{2}}{2c^2}
 $$
 
 ### Mean at scale
