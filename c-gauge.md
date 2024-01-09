@@ -11,9 +11,9 @@ This will hopefully lead to some insight as to why c is.
 
 ## Table of constants
 
-As an introduction to a reader that has an understanding of modern physics, please find a list of derived constants that have been worked out using c-gauge [here](~/constants). You can construct a learning path by listing the required reading for each contribution of interest.
+As an introduction to a reader that has an understanding of modern physics, please find a list of derived constants that have been worked out using c-gauge [here](./constants). You can construct a learning path by listing the required reading for each contribution of interest.
 
-Currently the only draft learning path is for the [Gravitational Constant](~/gravitation-constant). The plan is to flesh out the others constants over the next year or so.
+Currently the only draft learning path is for the [Gravitational Constant](./gravitation-constant). The plan is to flesh out the others constants over the next year or so.
 
 
 ## Energy Equivalence

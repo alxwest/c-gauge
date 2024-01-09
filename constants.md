@@ -14,13 +14,13 @@ It's success is only with constants that are derived from ratios that utilise SI
 
 | Constant | Symbol | Observed | Calculated | Hypothesis
 |--- |--- | --- | --- | --- |
-| Speed of light | c | 299792458 | - | [c](~/c)
-| Gravitation constant | G | 6.6743E-11 | 6.7501720033E-11 | [Gravitational Constant](~/gravitational-constant)
-| Elementary charge | e | 1.6021766300E-19 | 1.6023186291E-19 | [Elementary Charge](~/elementary-charge)
-| Planck constant | h | 6.6260701500E-34 | 6.4821012530E-34 | [Planck Constant](~/planck-constant)
-| Electric permittivity | ε0 | 8.8541878128E-12 | 8.6765227075E-12 | [Electric permittivity](~/electric-permittivity)
-| Electron mass | - | 5.1100000000E-01 | 5.0000000167E-01 | [Electron mass](~/electron#mass)
-| Proton mass | - | 938.3 | 938 | [Proton mass](~/proton#mass)
+| Speed of light | c | 299792458 | - | [c](./c)
+| Gravitation constant | G | 6.6743E-11 | 6.7501720033E-11 | [Gravitational Constant](./gravitational-constant)
+| Elementary charge | e | 1.6021766300E-19 | 1.6023186291E-19 | [Elementary Charge](./elementary-charge)
+| Planck constant | h | 6.6260701500E-34 | 6.4821012530E-34 | [Planck Constant](./planck-constant)
+| Electric permittivity | ε0 | 8.8541878128E-12 | 8.6765227075E-12 | [Electric permittivity](./electric-permittivity)
+| Electron mass | - | 5.1100000000E-01 | 5.0000000167E-01 | [Electron mass](./electron#mass)
+| Proton mass | - | 938.3 | 938 | [Proton mass](./proton#mass)
 
 None of the above derived constants are complete as they don't take into account the wave function. They are based on averages but once we have the wave function for each interaction they should get closer to what is observed. 
 

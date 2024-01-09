@@ -6,7 +6,7 @@
 
 ## Requisite Reading
 
-- [First mass function](~/first-mass-function)
+- [First mass function](./first-mass-function)
 
 ## Abstract
 
