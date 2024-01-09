@@ -6,8 +6,8 @@
 
 ## Requisite Reading
 
-- [Minimal function](./minimal-function)
-- [Spatial dimensions](./spatial-dimensions)
+- [Minimal function](./minimal-function.md)
+- [Spatial dimensions](./spatial-dimensions.md)
 
 ## Abstract
 

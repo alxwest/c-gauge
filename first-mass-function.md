@@ -7,8 +7,8 @@
 
 ## Requisite Reading
 
-- [Fields](./fields)
-- [Spatial dimensions](./spatial-dimensions)
+- [Fields](./fields.md)
+- [Spatial dimensions](./spatial-dimensions.md)
 
 ## Abstract
 
