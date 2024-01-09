@@ -6,7 +6,8 @@
 - 4+1 nodes
 - Total intrinsic energy is (c^2)+c 
 - Spin is the fluctuation in the electron's wave hence it's mass is 1/2 of (c^2)+c as it wave will only create a mass function (and magnetic momentum) for just over 1/2 the wave.
-- This magnetic moment will be
+- This magnetic moment's polarity will change with the wave
+- The frequency of an electron is 2/c and is fixed.
 
 
 
