@@ -44,7 +44,7 @@ $$
 *Fig. 11: Parallel function*
 
 $$
-  \mu_{2_\parallel}\  = \prod_{i = 1}^{2}\frac{1}{2}\  = \ .25\  = \frac{1}{4}
+  \mu_{2_\parallel}  = \prod_{i = 1}^{2}\frac{1}{2}  = .25  = \frac{1}{4}
 $$
 
 So the product of the 2<sup>nd</sup> degree parallel function ([Fig. 11](#field2)) of

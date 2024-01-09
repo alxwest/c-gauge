@@ -31,7 +31,7 @@ define a 1<sup>st</sup> degree mass function to define the
 2<sup>nd</sup> degree mass function:
 
 $$
-  \mu_{> 3} = \ \frac{d_{2}d_{3}}{d_{2} + d_{3}} = \frac{1}{1732}\ 
+  \mu_{> 3} = \frac{d_{2}d_{3}}{d_{2} + d_{3}} = \frac{1}{1732}
 $$
 
 This gives the probability test of how many nodes are needed before the
@@ -48,7 +48,7 @@ by $d_{2}$ to give us a ratio when the value of $E$ is on a continuum, just as w
 did for $f_{> 2}$:
 
 $$
-  f_{> 3}=\int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}}\ dx
+  f_{> 3}=\int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}} dx
 $$
 
 This gives us the ratio of acceleration to energy, essentially Newtonian
@@ -61,7 +61,7 @@ We then can calculate G by normalising the above with $c^{2}$, just as
 we did with the 1<sup>st</sup> degree mass function:
 
 $$
-  {G_{> 3} =}_{}\int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}c^{2}}\ dx = 6.6755086835... \times 10^{- 11} 
+  {G_{> 3} =}_{}\int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}c^{2}} dx = 6.6755086835... \times 10^{- 11} 
 $$
 
 We move from Newtonian gravity-energy equivalence to the more
@@ -182,7 +182,7 @@ $a$ is essentially normalised density, using the unit
 $\frac{1}{\frac{kg}{m}}$ thus:
 
 $$
-  = \frac{1}{\frac{kg}{{m \cdot \left( \frac{m}{s} \right)}^{2}}}\ 
+  = \frac{1}{\frac{kg}{{m \cdot \left( \frac{m}{s} \right)}^{2}}}
 $$
 
 $$

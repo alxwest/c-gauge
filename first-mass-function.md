@@ -51,7 +51,7 @@ degree field function. The minimal mass function graphed in
 *Fig. 14: Minimal mass function*
 
 $$
-  \Sigma = \ \{\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\}\}\  = \ \{\{ 1,2\},\{ 2,2\},\{ 2,1\}\}\ 
+  \Sigma = \{\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\}\} = \{\{ 1,2\},\{ 2,2\},\{ 2,1\}\}
 $$
 
 When mapped to a function field graph, we find for a function of six
@@ -79,11 +79,11 @@ interactions between 2 functions, as 3 or more introduces complexity
 that is out of the scope of this contribution.
 
 $$
-  \Sigma_{d} = \ \{\{ 1,1\},\{ 1,1\},\{ 1_{r},1\},\{ 1_{r},1\}\}
+  \Sigma_{d} = \{\{ 1,1\},\{ 1,1\},\{ 1_{r},1\},\{ 1_{r},1\}\}
 $$
 
 $$
-  \Sigma_{r} = \ \{\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1_{d},1\},\{ 1_{d},1\}\}
+  \Sigma_{r} = \{\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1,1\},\{ 1_{d},1\},\{ 1_{d},1\}\}
 $$
 
 Please note this is a simplification of the kinematics involved, as the
@@ -100,7 +100,7 @@ We can interpret this as a function that is derived from the 1D and 2D
 functions ([Fig. 16](#mass3)):
 
 $$
-  \mu_{> 2}\  = {({d_{1}}^{- 1} + {d_{2}}^{- 1})}^{- 1} = \frac{d_{1}d_{2}}{d_{1} + d_{2}} =  \frac{1}{5}
+  \mu_{> 2} = {({d_{1}}^{- 1} + {d_{2}}^{- 1})}^{- 1} = \frac{d_{1}d_{2}}{d_{1} + d_{2}} =  \frac{1}{5}
 $$
 
 Thus the minimum function that will demonstrate "mass" needs a minimum of 5 nodes.
@@ -108,7 +108,7 @@ This is a 1<sup>st</sup> degree mass function, which can be
 tested with the following:
 
 $$
-  \mu_{> 2}\Sigma \bullet_{1}\  \geq 1
+  \mu_{> 2}\Sigma \bullet_{1} \geq 1
 $$
 
 ### Acceleration caused by the mass function
@@ -124,7 +124,7 @@ of $\mu_{> 2}$ dividing by $d_{1}$ to give us a ratio when using the
 value of $E$ on a continuum.
 
 $$
-  f_{> 2} = \int_{0}^{{\mu_{> 2}}^{-1}}\frac{x}{d_{1}}\ dx = \frac{1}{\mu_{> 2}}^{2}\ 
+  f_{> 2} = \int_{0}^{{\mu_{> 2}}^{-1}}\frac{x}{d_{1}} dx = \frac{1}{\mu_{> 2}}^{2}
 $$
 
 Where $f_{> 2}$ is a constant within a system where 1 or more
@@ -134,7 +134,7 @@ If we want real world numbers we can normalise by $c$ to get
 momentum-energy equivalence.
 
 $$
-  p_{> 2} = \int_{0}^{{\mu_{> 2}}^{-1}}\frac{x}{d_{1}c}\ dx = \frac{x^{2}}{c}\ 
+  p_{> 2} = \int_{0}^{{\mu_{> 2}}^{-1}}\frac{x}{d_{1}c} dx = \frac{x^{2}}{c}
 $$
 
 And as $E$ is the area of $x$ we get:
@@ -149,7 +149,7 @@ i.e. massive objects can move in a direction.
 We can normalise by $c^{2}$ to get the mass-energy equivalence:
 
 $$
-  a_{> 2} = \int_{0}^{{\mu_{> 2}}^{-1}}\frac{x}{d_{1}c^{2}}\ dx = \frac{x^{2}}{c^{2}}\ 
+  a_{> 2} = \int_{0}^{{\mu_{> 2}}^{-1}}\frac{x}{d_{1}c^{2}} dx = \frac{x^{2}}{c^{2}}
 $$
 
 And as $E = x^{2}$ we can interpret mass being the acceleration of

@@ -141,7 +141,7 @@ probability $\kappa$ is reduced to 0 while state B ([Fig. 7](#stateD)) demonstra
 potential \(> 0\):
 
 $$
-  \kappa_{state\ A}\  = 0
+  \kappa_{state\ A} = 0
 $$
 
 $$

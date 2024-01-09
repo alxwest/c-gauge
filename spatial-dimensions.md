@@ -22,7 +22,7 @@ The relation between spatial dimensions and their probability is shown
 by the following recursive formula:
 
 $$
-  d_{x}\  = \left( \frac{d_{x - 1}}{x} \right)^{x}
+  d_{x} = \left( \frac{d_{x - 1}}{x} \right)^{x}
 $$
 
 For each traditional spatial dimension $x$ (1, 2, 3, etc) the product
@@ -30,7 +30,7 @@ of its probability $d_{x}$ and the sum of function's nodes
 $\Sigma \bullet_{1}$ need to be 1 or above to signify it's possible:
 
 $$
-  d_{x}\Sigma \bullet_{1}\  \geq 1\ 
+  d_{x}\Sigma \bullet_{1}  \geq 1
 $$
 
 ### 1+1 dimension function
@@ -77,13 +77,13 @@ to clearly denote 2D behaviour.
 Using the formula for 3+1 dimensions:
 
 $$
-  d_{3}\  = 5.787\underline{037} \times 10^{- 4}\  = \frac{1}{1728}
+  d_{3} = 5.787\underline{037} \times 10^{- 4} = \frac{1}{1728}
 $$
 
 The test for a 3D function is:
 
 $$
-  d_{3}\Sigma \bullet_{1}\  \geq 1\ 
+  d_{3}\Sigma \bullet_{1} \geq 1
 $$
 
 ### 4+1 dimensions
