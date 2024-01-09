@@ -48,7 +48,7 @@ by $d_{2}$ to give us a ratio when the value of $E$ is on a continuum, just as w
 did for $f_{> 2}$:
 
 $$
-  f_{> 3}=\int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}} dx
+  f_{> 3}=\int_{0}^{{\mu_{> 3}}^{-1}}\frac{x}{d_{2}} dx
 $$
 
 This gives us the ratio of acceleration to energy, essentially Newtonian
@@ -61,7 +61,7 @@ We then can calculate G by normalising the above with $c^{2}$, just as
 we did with the 1<sup>st</sup> degree mass function:
 
 $$
-  G_{> 3} = \int_{0}^{{\mu_{> 3}}^{- 1}}\frac{x}{d_{2}c^2} dx = 6.6755086835... \times 10^{- 11} 
+  G_{> 3} = \int_{0}^{{\mu_{> 3}}^{-1}}\frac{x}{d_{2}c^2} dx = 6.6755086835... \times 10^{- 11} 
 $$
 
 We move from Newtonian gravity-energy equivalence to the more
@@ -141,7 +141,7 @@ enact as a gravitational force, taking into account boundary
 probabilities, thus a mean G can be calculated:
 
 $$
-  G_{> 3\pi}  = \frac{{d_{2}}^{- 1}({\mu_{2\pi} + \mu_{3\pi}}^{2})}{{2c}^{2}} = 6.6739928853... \times 10^{- 11}
+  G_{> 3\pi}  = \frac{{d_{2}}^{- 1}({\mu_{2\pi} + \mu_{3\pi}}^2)}{2c^2} = 6.6739928853... \times 10^{- 11}
 $$
 
 Comparison between $G_{> 3}$ and $G_{> 3\pi}$ shows the boundary
@@ -171,18 +171,18 @@ and N is $kg\cdot m/s^2$ so we have
 $m^{3}\cdot kg^{-1}\cdot s^{-2}$ for G:
 
 $$
-  G = \frac{\frac{1}{d_{2}}(\frac{1}{d_{2}}+\frac{1}{d_{3}})^{2}}{{2c}^{2}}
+  G = \frac{\frac{1}{d_{2}}(\frac{1}{d_{2}}+\frac{1}{d_{3}})^{2}}{2c^2}
 $$
 
 $$
-  = \frac{\frac{1}{x}a^{2}}{{2c}^{2}}
+  = \frac{\frac{1}{x}a^{2}}{2c^2}
 $$
 
 $a$ is essentially normalised density, using the unit
 $\frac{1}{\frac{kg}{m}}$ thus:
 
 $$
-  = \frac{1}{\frac{kg}{{m \cdot \left( \frac{m}{s} \right)}^{2}}}
+  = \frac{1}{\frac{kg}{{m \cdot \left( \frac{m}{s} \right)}^2}}
 $$
 
 $$
