@@ -26,7 +26,7 @@ The owner of this repo has a background in software engineering. Which in practi
 
 ## Where to start?
 
-Please read the [introduction](./c-gauge) for a starting point.
+Please read the [introduction](./c-gauge.md) for a starting point.
 
 ## Aim
 
