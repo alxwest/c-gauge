@@ -24,6 +24,10 @@ It's been 40 years and humanity is no closer to finding the root of physics and 
 The owner of this repo has a background in software engineering. Which in practice deals daily with applied logic with tangible outcomes with a diverse set of individuals. So applying the techniques within this practice to the above problem looks like a fun thing to do.
 
 
+## Where to start?
+
+Please read the [introduction](./c-gauge) for a starting point.
+
 ## Aim
 
 The author wants to know how the kinematics of the universe operate. Ever since he was a child it has been a source of frustration that we have distorted view which has culminated in a General Relativity and Quantum Mechanics butting heads.
